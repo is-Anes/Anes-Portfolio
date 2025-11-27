@@ -60,13 +60,14 @@ const Contact = () => {
                     <a
                       href="https://www.linkedin.com/in/anasis"
                       target="_blank"
+                      rel="noreferrer"
                     >
                       <img className="svg" src="img/svg/social/be.svg" alt="" />
                     </a>
                   </li>
 
                   <li>
-                    <a href="https://github.com/anasis" target="_blank">
+                    <a href="https://github.com/anasis" target="_blank" rel="noreferrer">
                       <img
                         className="svg"
                         src="img/svg/social/dribbble.svg"
@@ -76,7 +77,7 @@ const Contact = () => {
                   </li>
 
                   <li>
-                    <a href="#" target="_blank">
+                    <a href="#" target="_blank" rel="noreferrer">
                       <img
                         className="svg"
                         src="img/svg/social/instagarm.svg"

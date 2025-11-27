@@ -55,6 +55,7 @@ const Projects = () => {
                       className="orido_tm_full_link"
                       href="https://apps.apple.com/ca/app/aquassist/id1578564758"
                       target="_blank"
+                      rel="noreferrer"
                     />
                   </div>
                 </SwiperSlide>
@@ -81,6 +82,7 @@ const Projects = () => {
                       className="orido_tm_full_link"
                       href="https://apps.apple.com/ca/app/playpro-booking-tournaments/id6612028849"
                       target="_blank"
+                      rel="noreferrer"
                     />
                   </div>
                 </SwiperSlide>
@@ -107,6 +109,7 @@ const Projects = () => {
                       className="orido_tm_full_link"
                       href="https://apps.apple.com/ca/app/mygat-assurances/id1542620842?l=fr-CA"
                       target="_blank"
+                      rel="noreferrer"
                     />
                   </div>
                 </SwiperSlide>
@@ -133,6 +136,7 @@ const Projects = () => {
                       className="orido_tm_full_link"
                       href="https://play.google.com/store/apps/details?id=com.gatassurances"
                       target="_blank"
+                      rel="noreferrer"
                     />
                   </div>
                 </SwiperSlide>

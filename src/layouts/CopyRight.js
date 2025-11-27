@@ -7,7 +7,7 @@ const CopyRight = () => {
             <div className="copy">
               <p>
                 © {new Date().getFullYear()} by{" "}
-                <a href="https://anesismail.com" target="_blank">
+                <a href="https://anesismail.com" target="_blank" rel="noreferrer">
                   Anes Ismail.
                 </a>{" "}
               </p>

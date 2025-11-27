@@ -26,7 +26,7 @@ const Home = ({ dark }) => {
                 </a>
               </div>
               <div className="orido_tm_simple_button">
-                <a className="line_effect anchor" href="https://github.com/is-Anes" target="_blank">
+                <a className="line_effect anchor" href="https://github.com/is-Anes" target="_blank" rel="noreferrer">
                   My Works{" "}
                   <img className="svg" src="img/svg/top-arrow.svg" alt="" />
                 </a>
@@ -39,12 +39,12 @@ const Home = ({ dark }) => {
           <span>Follow me:</span>
           <ul>
             <li>
-              <a href="https://www.linkedin.com/in/anasis" target="_blank">
+              <a href="https://www.linkedin.com/in/anasis" target="_blank" rel="noreferrer">
                 <img className="svg" src="img/svg/Id.svg" alt="" />
               </a>
             </li>
             <li>
-              <a href="https://www.instagram.com/is.anas/" target="_blank">
+              <a href="https://www.instagram.com/is.anas/" target="_blank" rel="noreferrer">
                 <img
                   className="svg"
                   src="img/svg/social/instagarm.svg"

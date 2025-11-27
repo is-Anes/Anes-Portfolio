@@ -1,10 +1,8 @@
 import dynamic from "next/dynamic";
 import { useEffect } from "react";
 import About from "../src/components/About";
-import Blog from "../src/components/Blog";
 import Contact from "../src/components/Contact";
 import ExpertAreas from "../src/components/ExpertAreas";
-import Feedback from "../src/components/Feedback";
 import Home from "../src/components/Home";
 import Services from "../src/components/Services";
 import CopyRight from "../src/layouts/CopyRight";
@@ -36,8 +34,6 @@ const IndexDark = () => {
       <ExpertAreas />
       <Services />
       <Projects />
-      <Feedback dark />
-      <Blog />
       <Partners dark />
       <Contact />
       <CopyRight />
